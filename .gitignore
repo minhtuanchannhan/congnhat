@@ -1,0 +1,9 @@
+# General files and folders
+node_modules
+npm-debug.log
+yarn-error.log
+.env
+package-lock.json
+
+# Editors and IDEs
+/.vscode
